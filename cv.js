@@ -17,7 +17,7 @@ function loading1(){
     if(progress.value == progress.max){
         clearInterval(clear)
         loading.style.display = "none"
-        container.style.display = "flex"
+        container.style.display = "block"
     }
 }
 button.addEventListener("click",()=>{
