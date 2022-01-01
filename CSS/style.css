@@ -366,6 +366,7 @@ table, td {
      text-transform: uppercase;
      animation:buttonRun 10s infinite linear;
      border-color: white black white black;
+     border-width: 2px;
      transition:transform 1s;
  }
  button:hover{
