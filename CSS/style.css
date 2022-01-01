@@ -342,7 +342,6 @@ table, td {
      height:50px;
      width: 400px;
      cursor:wait;
-     background-color:green;
  }
  .loading{
      position: absolute;
@@ -361,12 +360,12 @@ table, td {
      left:50%;
      transform:translateX(-50%);
      padding:10px;
-     background: royalblue;
+     background: dodgerblue;
      color:white;
      font-size: 25px;
      text-transform: uppercase;
      animation:buttonRun 10s infinite linear;
-     border:none;
+     border-color: white black white black;
      transition:transform 1s;
  }
  button:hover{
