@@ -342,7 +342,7 @@ table, td {
      height:50px;
      width: 400px;
      cursor:wait;
-      color: green;
+     background-color:green;
  }
  .loading{
      position: absolute;
